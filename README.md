@@ -21,15 +21,17 @@ The following **optional** features are implemented:
 - [X] Run the app on a device rather than in the simulator
 
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
-
-
+<div>
+    <a href="https://www.loom.com/share/e6bb3dd143f0452bb9d067db35e1aa81">
+    </a>
+    <a href="https://www.loom.com/share/e6bb3dd143f0452bb9d067db35e1aa81">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/e6bb3dd143f0452bb9d067db35e1aa81-f404295982b69a73-full-play.gif">
+    </a>
+  </div>
+  
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright [2025] [Steffina Jerald]
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
