@@ -7,18 +7,13 @@ Worlde is an app that simulates the NYT Worldle, a popular word game platform in
 
 Time spent: 2 hours spent in total
 
-## Required Features
+## Features
 
 The following **required** functionality is completed:
 
 - [X] App displays a keyboard on the screen
 - [X] When tapping on the keyboard, a letter is shown or deleted (letter selected)
 - [X] User can play a basic version of Wordle, with different goal words each time
-
-The following **optional** features are implemented:
-
-- [X] Improve and customize the user interface by adding a launchscreen and app icon
-- [X] Run the app on a device rather than in the simulator
 
 ## Video Walkthrough
 <div>
