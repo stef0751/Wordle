@@ -3,7 +3,7 @@
 
 Submitted by: Steffina Jerald
 
-**Name of your app** is an app that ... [TODO] 
+Worlde is an app that simulates the NYT Worldle, a popular word game platform in which you have to guess a word correctly based on the given hints.  
 
 Time spent: 2 hours spent in total
 
